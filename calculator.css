@@ -1,0 +1,41 @@
+.text-centre{
+    text-align: center;
+    
+}
+.container{
+   
+   margin: auto;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.row{
+margin: 5px 2px;
+}
+.button{
+    padding: 15px;
+margin: 5px;
+border:2px solid black;
+border-radius: 10px;
+cursor: pointer;
+background-color: #adefd1ff;
+font-size: larger;
+font-weight: bold;
+font-style: italic;
+
+}
+.input{
+padding: 2px 0px;
+line-height: 20px ;
+border: 2px solid rgb(0, 0, 7);
+border-radius: 10px;
+font-family: 'ubonto','Times New Roman', Times, serif;
+font-size: 17px;
+
+}
+.border{
+    padding: 20px;
+    border: 5px solid orange;
+    border-radius: 40px ;
+    background-color: #00203fff;
+}
